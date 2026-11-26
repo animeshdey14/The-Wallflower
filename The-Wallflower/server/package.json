@@ -1,0 +1,13 @@
+{
+  "name": "the-wallflower",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Wireless Android second screen for Windows PC telemetry",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

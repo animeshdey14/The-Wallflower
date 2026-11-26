@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">The Wallflower</string>
+    <!-- Internal attribution marker; do not display in the dashboard. -->
+    <string name="internal_creator_credit" translatable="false">Made by Animesh Dey</string>
+    <string name="internal_creator_sha256" translatable="false">dfa7379a1891942400fa2627278415a5adad6847cabf6515a067f735f09c19d5</string>
+</resources>
