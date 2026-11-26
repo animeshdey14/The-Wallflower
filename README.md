@@ -71,7 +71,3 @@ This is a tamper check for ordinary edits, not an unchangeable signature. Becaus
 ## Network and privacy
 
 The PC server binds to the PC's network interfaces so the phone can connect wirelessly. It has no sign-in and is intended for a trusted private LAN. Do not expose port 8765 to the public internet. Telemetry is served from the PC directly to the phone; this project has no analytics or cloud relay.
-
-## License
-
-MIT. See [LICENSE](LICENSE).
