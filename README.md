@@ -71,3 +71,19 @@ This is a tamper check for ordinary edits, not an unchangeable signature. Becaus
 ## Network and privacy
 
 The PC server binds to the PC's network interfaces so the phone can connect wirelessly. It has no sign-in and is intended for a trusted private LAN. Do not expose port 8765 to the public internet. Telemetry is served from the PC directly to the phone; this project has no analytics or cloud relay.
+
+## Screenshots
+
+The Wallflower gives you a live view of your PC from another device on your network.
+
+### Overview
+
+<img width="1280" height="757" alt="WhatsApp Image 2026-11-26 at 11 52 11 AM" src="https://github.com/user-attachments/assets/6b2f973f-c9ce-429f-9406-bd2bf05eb0e4" />
+
+
+### Apps, storage, and activity
+
+<img width="1280" height="757" alt="bdbdb" src="https://github.com/user-attachments/assets/ac0204b6-58b9-4006-81c1-f3ac974dddd5" />
+
+
+
